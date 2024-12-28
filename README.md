@@ -1,1 +1,1 @@
-# k8s-learning-note
+# Configuration for K8S
